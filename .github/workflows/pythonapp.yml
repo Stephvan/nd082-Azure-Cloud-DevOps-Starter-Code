@@ -18,7 +18,7 @@ jobs:
         sudo apt install make
     - name: Install dependencies
       run: |
-        make install
+        make all
     - name: Lint with pylint
       run: |
         make lint
