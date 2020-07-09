@@ -27,6 +27,6 @@ variable "prefix" {
 
 variable "nb_instances" {
   description = "Specify the number of vm instances"
-  default     = "1"
+  default     = "2"
 }
 
