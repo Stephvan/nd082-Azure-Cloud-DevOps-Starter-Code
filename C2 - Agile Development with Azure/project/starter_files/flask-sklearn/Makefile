@@ -1,5 +1,5 @@
-setup:
-	python3 -m venv ~/.udacity-devops
+#setup:
+	#python3 -m venv ~/.udacity-devops
 
 install:
 	pip install --upgrade pip &&\
